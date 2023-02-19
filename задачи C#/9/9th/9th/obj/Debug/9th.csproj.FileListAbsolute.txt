@@ -1,0 +1,7 @@
+C:\Users\vasec\Desktop\задачи C#\9\9th\9th\bin\Debug\9th.exe.config
+C:\Users\vasec\Desktop\задачи C#\9\9th\9th\bin\Debug\9th.exe
+C:\Users\vasec\Desktop\задачи C#\9\9th\9th\bin\Debug\9th.pdb
+C:\Users\vasec\Desktop\задачи C#\9\9th\9th\obj\Debug\9th.csproj.CoreCompileInputs.cache
+C:\Users\vasec\Desktop\задачи C#\9\9th\9th\obj\Debug\9th.exe
+C:\Users\vasec\Desktop\задачи C#\9\9th\9th\obj\Debug\9th.pdb
+C:\Users\vasec\Desktop\задачи C#\9\9th\9th\obj\Debug\9th.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\vasec\Desktop\задачи C#\4\4s\4s\bin\Debug\4s.exe.config
+C:\Users\vasec\Desktop\задачи C#\4\4s\4s\bin\Debug\4s.exe
+C:\Users\vasec\Desktop\задачи C#\4\4s\4s\bin\Debug\4s.pdb
+C:\Users\vasec\Desktop\задачи C#\4\4s\4s\obj\Debug\4s.csproj.CoreCompileInputs.cache
+C:\Users\vasec\Desktop\задачи C#\4\4s\4s\obj\Debug\4s.exe
+C:\Users\vasec\Desktop\задачи C#\4\4s\4s\obj\Debug\4s.pdb

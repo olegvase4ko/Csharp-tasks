@@ -1,0 +1,40 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace _13s
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+            textBox1.Multiline = true;
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            var text = textBox1.Text.Reverse().ToList();
+            var q = "";
+            foreach (var item in text)
+            {
+                if (item == '\n')
+                {
+                    listBox1.Items.Add(q);
+                    q = "";
+                }
+                else
+                {
+                    q += item;
+                }
+            }
+            listBox1.Items.Add(q);
+        }
+    }
+}

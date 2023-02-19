@@ -1,0 +1,6 @@
+C:\Users\vasec\Desktop\задачи C#\8\8s\8s\bin\Debug\8s.exe.config
+C:\Users\vasec\Desktop\задачи C#\8\8s\8s\bin\Debug\8s.exe
+C:\Users\vasec\Desktop\задачи C#\8\8s\8s\bin\Debug\8s.pdb
+C:\Users\vasec\Desktop\задачи C#\8\8s\8s\obj\Debug\8s.csproj.CoreCompileInputs.cache
+C:\Users\vasec\Desktop\задачи C#\8\8s\8s\obj\Debug\8s.exe
+C:\Users\vasec\Desktop\задачи C#\8\8s\8s\obj\Debug\8s.pdb

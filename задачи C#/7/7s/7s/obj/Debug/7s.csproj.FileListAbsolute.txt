@@ -1,0 +1,6 @@
+C:\Users\vasec\Desktop\задачи C#\7\7s\7s\bin\Debug\7s.exe.config
+C:\Users\vasec\Desktop\задачи C#\7\7s\7s\bin\Debug\7s.exe
+C:\Users\vasec\Desktop\задачи C#\7\7s\7s\bin\Debug\7s.pdb
+C:\Users\vasec\Desktop\задачи C#\7\7s\7s\obj\Debug\7s.csproj.CoreCompileInputs.cache
+C:\Users\vasec\Desktop\задачи C#\7\7s\7s\obj\Debug\7s.exe
+C:\Users\vasec\Desktop\задачи C#\7\7s\7s\obj\Debug\7s.pdb

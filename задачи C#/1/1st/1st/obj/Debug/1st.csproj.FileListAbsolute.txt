@@ -1,0 +1,7 @@
+C:\Users\vasec\Desktop\задачи C#\1\1st\1st\bin\Debug\1st.exe.config
+C:\Users\vasec\Desktop\задачи C#\1\1st\1st\bin\Debug\1st.exe
+C:\Users\vasec\Desktop\задачи C#\1\1st\1st\bin\Debug\1st.pdb
+C:\Users\vasec\Desktop\задачи C#\1\1st\1st\obj\Debug\1st.csprojAssemblyReference.cache
+C:\Users\vasec\Desktop\задачи C#\1\1st\1st\obj\Debug\1st.csproj.CoreCompileInputs.cache
+C:\Users\vasec\Desktop\задачи C#\1\1st\1st\obj\Debug\1st.exe
+C:\Users\vasec\Desktop\задачи C#\1\1st\1st\obj\Debug\1st.pdb

@@ -1,0 +1,43 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace _14s
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            button1.Enabled = false;
+            var l = richTextBox1.Text.Length;
+            var r = new Random();
+            var g = 1;
+            for (var i = 0; i < l; i++)
+            {
+                richTextBox1.SelectionStart = i;
+                richTextBox1.SelectionLength = g;
+                g++;
+                richTextBox1.SelectionColor = System.Drawing.Color.FromArgb(r.Next(255), r.Next(255), r.Next(255));
+            }
+            richTextBox1.Refresh();
+
+            System.Threading.Thread.Sleep(2000);
+
+            richTextBox1.SelectionStart = 0;
+            richTextBox1.SelectionLength = l;
+            richTextBox1.SelectionColor = System.Drawing.Color.Black;
+            button1.Enabled = true;
+        }
+    }
+}

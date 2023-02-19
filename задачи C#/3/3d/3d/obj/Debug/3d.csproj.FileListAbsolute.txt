@@ -1,0 +1,6 @@
+C:\Users\vasec\Desktop\задачи C#\3\3d\3d\bin\Debug\3d.exe.config
+C:\Users\vasec\Desktop\задачи C#\3\3d\3d\bin\Debug\3d.exe
+C:\Users\vasec\Desktop\задачи C#\3\3d\3d\bin\Debug\3d.pdb
+C:\Users\vasec\Desktop\задачи C#\3\3d\3d\obj\Debug\3d.csproj.CoreCompileInputs.cache
+C:\Users\vasec\Desktop\задачи C#\3\3d\3d\obj\Debug\3d.exe
+C:\Users\vasec\Desktop\задачи C#\3\3d\3d\obj\Debug\3d.pdb

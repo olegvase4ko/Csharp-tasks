@@ -1,0 +1,9 @@
+C:\Users\vasec\Desktop\задачи C#\18\18s\18s\bin\Debug\18s.exe.config
+C:\Users\vasec\Desktop\задачи C#\18\18s\18s\bin\Debug\18s.exe
+C:\Users\vasec\Desktop\задачи C#\18\18s\18s\bin\Debug\18s.pdb
+C:\Users\vasec\Desktop\задачи C#\18\18s\18s\obj\Debug\_18s.Form1.resources
+C:\Users\vasec\Desktop\задачи C#\18\18s\18s\obj\Debug\_18s.Properties.Resources.resources
+C:\Users\vasec\Desktop\задачи C#\18\18s\18s\obj\Debug\18s.csproj.GenerateResource.cache
+C:\Users\vasec\Desktop\задачи C#\18\18s\18s\obj\Debug\18s.csproj.CoreCompileInputs.cache
+C:\Users\vasec\Desktop\задачи C#\18\18s\18s\obj\Debug\18s.exe
+C:\Users\vasec\Desktop\задачи C#\18\18s\18s\obj\Debug\18s.pdb

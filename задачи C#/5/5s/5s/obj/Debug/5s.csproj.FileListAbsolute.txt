@@ -1,0 +1,6 @@
+C:\Users\vasec\Desktop\задачи C#\5\5s\5s\bin\Debug\5s.exe.config
+C:\Users\vasec\Desktop\задачи C#\5\5s\5s\bin\Debug\5s.exe
+C:\Users\vasec\Desktop\задачи C#\5\5s\5s\bin\Debug\5s.pdb
+C:\Users\vasec\Desktop\задачи C#\5\5s\5s\obj\Debug\5s.csproj.CoreCompileInputs.cache
+C:\Users\vasec\Desktop\задачи C#\5\5s\5s\obj\Debug\5s.exe
+C:\Users\vasec\Desktop\задачи C#\5\5s\5s\obj\Debug\5s.pdb

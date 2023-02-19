@@ -1,0 +1,9 @@
+C:\Users\vasec\Desktop\задачи C#\16\16s\16s\bin\Debug\16s.exe.config
+C:\Users\vasec\Desktop\задачи C#\16\16s\16s\bin\Debug\16s.exe
+C:\Users\vasec\Desktop\задачи C#\16\16s\16s\bin\Debug\16s.pdb
+C:\Users\vasec\Desktop\задачи C#\16\16s\16s\obj\Debug\_16s.Form1.resources
+C:\Users\vasec\Desktop\задачи C#\16\16s\16s\obj\Debug\_16s.Properties.Resources.resources
+C:\Users\vasec\Desktop\задачи C#\16\16s\16s\obj\Debug\16s.csproj.GenerateResource.cache
+C:\Users\vasec\Desktop\задачи C#\16\16s\16s\obj\Debug\16s.csproj.CoreCompileInputs.cache
+C:\Users\vasec\Desktop\задачи C#\16\16s\16s\obj\Debug\16s.exe
+C:\Users\vasec\Desktop\задачи C#\16\16s\16s\obj\Debug\16s.pdb

@@ -1,0 +1,6 @@
+C:\Users\vasec\Desktop\задачи C#\2\2nd\2nd\bin\Debug\2nd.exe.config
+C:\Users\vasec\Desktop\задачи C#\2\2nd\2nd\bin\Debug\2nd.exe
+C:\Users\vasec\Desktop\задачи C#\2\2nd\2nd\bin\Debug\2nd.pdb
+C:\Users\vasec\Desktop\задачи C#\2\2nd\2nd\obj\Debug\2nd.csproj.CoreCompileInputs.cache
+C:\Users\vasec\Desktop\задачи C#\2\2nd\2nd\obj\Debug\2nd.exe
+C:\Users\vasec\Desktop\задачи C#\2\2nd\2nd\obj\Debug\2nd.pdb

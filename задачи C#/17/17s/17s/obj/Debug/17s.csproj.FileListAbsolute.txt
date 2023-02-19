@@ -1,0 +1,10 @@
+C:\Users\vasec\Desktop\задачи C#\17\17s\17s\bin\Debug\17s.exe.config
+C:\Users\vasec\Desktop\задачи C#\17\17s\17s\bin\Debug\17s.exe
+C:\Users\vasec\Desktop\задачи C#\17\17s\17s\bin\Debug\17s.pdb
+C:\Users\vasec\Desktop\задачи C#\17\17s\17s\obj\Debug\17s.csprojAssemblyReference.cache
+C:\Users\vasec\Desktop\задачи C#\17\17s\17s\obj\Debug\_17s.Form1.resources
+C:\Users\vasec\Desktop\задачи C#\17\17s\17s\obj\Debug\_17s.Properties.Resources.resources
+C:\Users\vasec\Desktop\задачи C#\17\17s\17s\obj\Debug\17s.csproj.GenerateResource.cache
+C:\Users\vasec\Desktop\задачи C#\17\17s\17s\obj\Debug\17s.csproj.CoreCompileInputs.cache
+C:\Users\vasec\Desktop\задачи C#\17\17s\17s\obj\Debug\17s.exe
+C:\Users\vasec\Desktop\задачи C#\17\17s\17s\obj\Debug\17s.pdb

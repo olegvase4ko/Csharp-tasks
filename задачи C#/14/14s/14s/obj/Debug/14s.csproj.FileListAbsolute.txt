@@ -1,0 +1,9 @@
+C:\Users\vasec\Desktop\задачи C#\14\14s\14s\bin\Debug\14s.exe.config
+C:\Users\vasec\Desktop\задачи C#\14\14s\14s\bin\Debug\14s.exe
+C:\Users\vasec\Desktop\задачи C#\14\14s\14s\bin\Debug\14s.pdb
+C:\Users\vasec\Desktop\задачи C#\14\14s\14s\obj\Debug\_14s.Form1.resources
+C:\Users\vasec\Desktop\задачи C#\14\14s\14s\obj\Debug\_14s.Properties.Resources.resources
+C:\Users\vasec\Desktop\задачи C#\14\14s\14s\obj\Debug\14s.csproj.GenerateResource.cache
+C:\Users\vasec\Desktop\задачи C#\14\14s\14s\obj\Debug\14s.csproj.CoreCompileInputs.cache
+C:\Users\vasec\Desktop\задачи C#\14\14s\14s\obj\Debug\14s.exe
+C:\Users\vasec\Desktop\задачи C#\14\14s\14s\obj\Debug\14s.pdb

@@ -1,0 +1,6 @@
+C:\Users\vasec\Desktop\задачи C#\12\12s\12s\bin\Debug\12s.exe.config
+C:\Users\vasec\Desktop\задачи C#\12\12s\12s\bin\Debug\12s.exe
+C:\Users\vasec\Desktop\задачи C#\12\12s\12s\bin\Debug\12s.pdb
+C:\Users\vasec\Desktop\задачи C#\12\12s\12s\obj\Debug\12s.csproj.CoreCompileInputs.cache
+C:\Users\vasec\Desktop\задачи C#\12\12s\12s\obj\Debug\12s.exe
+C:\Users\vasec\Desktop\задачи C#\12\12s\12s\obj\Debug\12s.pdb

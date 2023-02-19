@@ -1,0 +1,10 @@
+C:\Users\vasec\Desktop\задачи C#\13\13s\13s\bin\Debug\13s.exe.config
+C:\Users\vasec\Desktop\задачи C#\13\13s\13s\bin\Debug\13s.exe
+C:\Users\vasec\Desktop\задачи C#\13\13s\13s\bin\Debug\13s.pdb
+C:\Users\vasec\Desktop\задачи C#\13\13s\13s\obj\Debug\13s.csprojAssemblyReference.cache
+C:\Users\vasec\Desktop\задачи C#\13\13s\13s\obj\Debug\_13s.Form1.resources
+C:\Users\vasec\Desktop\задачи C#\13\13s\13s\obj\Debug\_13s.Properties.Resources.resources
+C:\Users\vasec\Desktop\задачи C#\13\13s\13s\obj\Debug\13s.csproj.GenerateResource.cache
+C:\Users\vasec\Desktop\задачи C#\13\13s\13s\obj\Debug\13s.csproj.CoreCompileInputs.cache
+C:\Users\vasec\Desktop\задачи C#\13\13s\13s\obj\Debug\13s.exe
+C:\Users\vasec\Desktop\задачи C#\13\13s\13s\obj\Debug\13s.pdb

@@ -1,0 +1,9 @@
+C:\Users\vasec\Desktop\задачи C#\19\19s\19s\obj\Debug\_19s.Form1.resources
+C:\Users\vasec\Desktop\задачи C#\19\19s\19s\obj\Debug\_19s.Properties.Resources.resources
+C:\Users\vasec\Desktop\задачи C#\19\19s\19s\obj\Debug\19s.csproj.GenerateResource.cache
+C:\Users\vasec\Desktop\задачи C#\19\19s\19s\obj\Debug\19s.csproj.CoreCompileInputs.cache
+C:\Users\vasec\Desktop\задачи C#\19\19s\19s\bin\Debug\19s.exe.config
+C:\Users\vasec\Desktop\задачи C#\19\19s\19s\bin\Debug\19s.exe
+C:\Users\vasec\Desktop\задачи C#\19\19s\19s\bin\Debug\19s.pdb
+C:\Users\vasec\Desktop\задачи C#\19\19s\19s\obj\Debug\19s.exe
+C:\Users\vasec\Desktop\задачи C#\19\19s\19s\obj\Debug\19s.pdb

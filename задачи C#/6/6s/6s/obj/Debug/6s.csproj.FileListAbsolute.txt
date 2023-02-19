@@ -1,0 +1,6 @@
+C:\Users\vasec\Desktop\задачи C#\6\6s\6s\bin\Debug\6s.exe.config
+C:\Users\vasec\Desktop\задачи C#\6\6s\6s\bin\Debug\6s.exe
+C:\Users\vasec\Desktop\задачи C#\6\6s\6s\bin\Debug\6s.pdb
+C:\Users\vasec\Desktop\задачи C#\6\6s\6s\obj\Debug\6s.csproj.CoreCompileInputs.cache
+C:\Users\vasec\Desktop\задачи C#\6\6s\6s\obj\Debug\6s.exe
+C:\Users\vasec\Desktop\задачи C#\6\6s\6s\obj\Debug\6s.pdb
